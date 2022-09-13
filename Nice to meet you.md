@@ -7,3 +7,5 @@ print("Hello git")
   а=true
    if а:
     print ( " b ")
+
+просто слова
